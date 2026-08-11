@@ -1,0 +1,10 @@
+{
+  "name": "TROLL Hug Tower Guide",
+  "short_name": "THT Guide",
+  "description": "Independent TROLL Hug Tower player guide and wiki.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff5df",
+  "theme_color": "#ff6433",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
